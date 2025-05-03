@@ -29,7 +29,7 @@ We were fascinated by how **four simple rules** can create patterns that look al
 - Mouse + keyboard interaction
 - Smooth animation using double buffering
 
-## How It Works
+## Working
 
 - Each cell has 3 properties: `alive`, `age`, and `nextState`.
 - In each generation:
