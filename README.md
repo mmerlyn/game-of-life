@@ -2,7 +2,7 @@
 
 This project is a simulation of **Conway's Game of Life**, built using **OpenGL in C**. It visualizes how simple rules can result in complex behavior, and we added a few enhancements like **organism aging**, color changes, and the ability for users to interact with the simulation while it runs.
 
-## What We Built
+## Project Goal
 
 - A grid-based ecosystem where each cell can be alive or dead.
 - The state of each cell changes in each generation based on the classic Game of Life rules.
@@ -11,7 +11,7 @@ This project is a simulation of **Conway's Game of Life**, built using **OpenGL 
   - **Color changes**: based on age, to make it more visual.
   - **User control**: use mouse to add cells, keyboard to play/pause/reset.
 
-## Why We Chose This
+## Motivation
 
 We were fascinated by how **four simple rules** can create patterns that look alive — like gliders, guns, and colonies. Conway's Game of Life has always been an iconic example of how complexity can emerge from simplicity. So we decided to build it from scratch and add our own twist.
 
@@ -21,7 +21,7 @@ We were fascinated by how **four simple rules** can create patterns that look al
 - Graphics: **OpenGL + GLUT**
 - IDE: **Code::Blocks**
 
-## Key Features
+## Features
 
 - Random initial states
 - Timed iterations with adjustable speed
@@ -45,6 +45,19 @@ We were fascinated by how **four simple rules** can create patterns that look al
 - Some patterns cycle forever unless disrupted.
 - User can interact and change the outcome midway.
 
+## System Requirements
+
+**Hardware:**
+- Core i5/i7 CPU
+- 1 GB RAM
+- 2 GB HDD
+
+**Software:**
+- Windows 10
+- Code::Blocks IDE
+- OpenGL + GLUT
+- Language: C
+
 ## Future Ideas
 
 - Let users delete cells (not just add them).
@@ -52,7 +65,7 @@ We were fascinated by how **four simple rules** can create patterns that look al
 - Use actual shapes instead of square pixels.
 - Simulate ecosystems, not just organisms.
 
-## 📜 License
+## License
 
 © All rights reserved.
 This project was created as part of the **Computer Graphics & Visualization Lab**  
