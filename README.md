@@ -67,8 +67,8 @@ We were fascinated by how **four simple rules** can create patterns that look al
 
 ## License
 
-© All rights reserved.
-This project was created as part of the **Computer Graphics & Visualization Lab**  
+© All rights reserved. <br>
+This project was created as part of the **Computer Graphics & Visualization Lab** <br> 
 6th Semester, B.E. CSE – BMS Institute of Technology & Management, Bengaluru.
 
 **Team Members:**
