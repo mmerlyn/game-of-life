@@ -1,4 +1,4 @@
-# 🧬 Game of Life – Visualization of Cellular Automata
+# 🧬 Game of Life - Visualization of Cellular Automata
 
 This project is a simulation of **Conway's Game of Life**, built using **OpenGL in C**. It visualizes how simple rules can result in complex behavior, and we added a few enhancements like **organism aging**, color changes, and the ability for users to interact with the simulation while it runs.
 
@@ -69,7 +69,7 @@ We were fascinated by how **four simple rules** can create patterns that look al
 
 © All rights reserved. <br>
 This project was created as part of the **17CS68 Computer Graphics & Visualization Lab**, 
-6th Semester, B.E. CSE – BMS Institute of Technology & Management, Bengaluru, India
+6th Semester, B.E. CSE - BMS Institute of Technology & Management, Bengaluru, India
 
 **Team Members:**
 1. Aishwarya M
