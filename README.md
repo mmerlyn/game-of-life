@@ -13,7 +13,7 @@ This project is a simulation of **Conway's Game of Life**, built using **OpenGL 
 
 ## Motivation
 
-We were fascinated by how **four simple rules** can create patterns that look alive — like gliders, guns, and colonies. Conway's Game of Life has always been an iconic example of how complexity can emerge from simplicity. So we decided to build it from scratch and add our own twist.
+We were fascinated by how **four simple rules** can create patterns that look alive - like gliders, guns, and colonies. Conway's Game of Life has always been an iconic example of how complexity can emerge from simplicity. So we decided to build it from scratch and add our own twist.
 
 ## 🔧 Tech Stack
 
@@ -48,11 +48,13 @@ We were fascinated by how **four simple rules** can create patterns that look al
 ## System Requirements
 
 **Hardware:**
+
 - Core i5/i7 CPU
 - 1 GB RAM
 - 2 GB HDD
 
 **Software:**
+
 - Windows 10
 - Code::Blocks IDE
 - OpenGL + GLUT
@@ -67,12 +69,10 @@ We were fascinated by how **four simple rules** can create patterns that look al
 
 ## License
 
-© All rights reserved. <br>
-This project was created as part of the **17CS68 Computer Graphics & Visualization Lab**, 
+This project was created as part of the **17CS68 Computer Graphics & Visualization Lab**,
 6th Semester, B.E. CSE - BMS Institute of Technology & Management, Bengaluru, India
 
 **Team Members:**
+
 1. Aishwarya M
 2. Merlyn Mercylona Maki Reddy
-
-
