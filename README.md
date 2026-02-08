@@ -67,10 +67,14 @@ We were fascinated by how **four simple rules** can create patterns that look al
 - Use actual shapes instead of square pixels.
 - Simulate ecosystems, not just organisms.
 
-## License
+## Acknowledgements
 
 This project was created as part of the **17CS68 Computer Graphics & Visualization Lab**,
 6th Semester, B.E. CSE - BMS Institute of Technology & Management, Bengaluru, India
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 **Team Members:**
 
